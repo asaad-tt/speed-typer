@@ -186,6 +186,10 @@ button {
   top: 0;
 }
 
+.blog{
+  font-size: 1.5em;
+}
+
 @media only screen and (max-width: 768px){
   #histories{
     grid-template-columns: 1fr;
